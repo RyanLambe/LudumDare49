@@ -1,0 +1,14 @@
+How To Create a New Level:
+
+    Step 1: create a new scene
+    Step 2: delete the camera
+    Step 3: add all prefabs from this folder
+    Step 4: select the camera and set the Player and Blocks gameobject
+    Step 5: select the UI and set the Camera gameobject
+    Step 6: build Level
+    Step 7: set the bounds of the Camera based on the level
+    Step 8: place Player into starting position
+    Step 9: place Camera into starting position
+    Step 10: Set number of Blocks that can be used
+    Step 11: Play
+    
